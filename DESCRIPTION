@@ -1,9 +1,9 @@
 Package: connpass
 Type: Package
-Title: What the package does (short line)
-Version: 1.0
+Title: Connpass API client
+Version: 0.1
 Date: 2015-01-28
-Author: Who wrote it
-Maintainer: Who to complain to <yourfault@somewhere.net>
-Description: More about what it does (maybe more than one line)
-License: What license is it under?
+Author: dichika
+Description: Get Data from Connpass API
+License: MIT
+Imports: jsonlite
